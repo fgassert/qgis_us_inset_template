@@ -1,0 +1,317 @@
+<Layout name="us_inset_map" units="mm" worldFileMap="{6ea3209e-4a97-43cb-a2e8-5f9be6e15e00}" printResolution="300">
+ <Snapper snapToGuides="1" snapToItems="1" tolerance="5" snapToGrid="0"/>
+ <Grid resUnits="mm" offsetX="0" resolution="10" offsetY="0" offsetUnits="mm"/>
+ <PageCollection>
+  <symbol name="" type="fill" clip_to_extent="1" alpha="1" force_rhr="0">
+   <layer enabled="1" pass="0" locked="0" class="SimpleFill">
+    <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+    <prop v="255,255,255,255" k="color"/>
+    <prop v="miter" k="joinstyle"/>
+    <prop v="0,0" k="offset"/>
+    <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+    <prop v="MM" k="offset_unit"/>
+    <prop v="35,35,35,255" k="outline_color"/>
+    <prop v="no" k="outline_style"/>
+    <prop v="0.26" k="outline_width"/>
+    <prop v="MM" k="outline_width_unit"/>
+    <prop v="solid" k="style"/>
+    <data_defined_properties>
+     <Option type="Map">
+      <Option name="name" type="QString" value=""/>
+      <Option name="properties"/>
+      <Option name="type" type="QString" value="collection"/>
+     </Option>
+    </data_defined_properties>
+   </layer>
+  </symbol>
+  <LayoutItem positionLock="false" templateUuid="{ff5a49a9-d35e-4962-8af8-3781fc1ee297}" background="true" itemRotation="0" zValue="0" size="297,210,mm" frameJoinStyle="miter" visibility="1" referencePoint="0" type="65638" uuid="{ff5a49a9-d35e-4962-8af8-3781fc1ee297}" frame="false" blendMode="0" position="0,0,mm" excludeFromExports="0" id="" outlineWidthM="0.3,mm" positionOnPage="0,0,mm" groupUuid="" opacity="1">
+   <FrameColor red="0" green="0" blue="0" alpha="255"/>
+   <BackgroundColor red="255" green="255" blue="255" alpha="255"/>
+   <LayoutObject>
+    <dataDefinedProperties>
+     <Option type="Map">
+      <Option name="name" type="QString" value=""/>
+      <Option name="properties"/>
+      <Option name="type" type="QString" value="collection"/>
+     </Option>
+    </dataDefinedProperties>
+    <customproperties/>
+   </LayoutObject>
+  </LayoutItem>
+  <GuideCollection visible="1"/>
+ </PageCollection>
+ <LayoutItem positionLock="false" templateUuid="{e1682532-6a5b-4301-88a3-2d6013ad0164}" background="false" itemRotation="0" zValue="18" halign="1" labelText="Source:" valign="64" marginY="0" size="90.1916,12.5295,mm" frameJoinStyle="miter" visibility="1" referencePoint="0" type="65641" uuid="{e1682532-6a5b-4301-88a3-2d6013ad0164}" frame="false" blendMode="0" position="148.5,191.841,mm" marginX="0" excludeFromExports="0" id="" outlineWidthM="0.3,mm" positionOnPage="148.5,191.841,mm" htmlState="0" groupUuid="" opacity="1">
+  <FrameColor red="0" green="0" blue="0" alpha="255"/>
+  <BackgroundColor red="255" green="255" blue="255" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option name="name" type="QString" value=""/>
+     <Option name="properties"/>
+     <Option name="type" type="QString" value="collection"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont style="Regular" description="Source Code Pro for Powerline,10,-1,5,50,0,0,0,0,0,Regular"/>
+  <FontColor red="0" green="0" blue="0"/>
+ </LayoutItem>
+ <LayoutItem positionLock="false" templateUuid="{f20f3dee-9623-4e4b-afcc-f3cbd5030afa}" followPresetName="MIRTA sites" background="true" keepLayerSet="false" itemRotation="0" zValue="14" drawCanvasItems="true" size="12.6885,12.6608,mm" frameJoinStyle="miter" visibility="1" referencePoint="0" type="65639" uuid="{f20f3dee-9623-4e4b-afcc-f3cbd5030afa}" frame="true" mapRotation="0" blendMode="0" position="5.4114,191.559,mm" followPreset="true" excludeFromExports="0" id="" outlineWidthM="0.3,mm" positionOnPage="5.4114,191.559,mm" groupUuid="" opacity="1">
+  <FrameColor red="127" green="127" blue="127" alpha="255"/>
+  <BackgroundColor red="255" green="255" blue="255" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option name="name" type="QString" value=""/>
+     <Option name="properties"/>
+     <Option name="type" type="QString" value="collection"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <Extent ymax="8607058.63152720592916012" xmin="475633.6515602667350322" xmax="857044.35363230598159134" ymin="8226480.17850614152848721"/>
+  <crs>
+   <spatialrefsys>
+    <proj4>+proj=utm +zone=2 +south +datum=WGS84 +units=m +no_defs</proj4>
+    <srsid>3152</srsid>
+    <srid>32702</srid>
+    <authid>EPSG:32702</authid>
+    <description>WGS 84 / UTM zone 2S</description>
+    <projectionacronym>utm</projectionacronym>
+    <ellipsoidacronym>WGS84</ellipsoidacronym>
+    <geographicflag>false</geographicflag>
+   </spatialrefsys>
+  </crs>
+  <LayerSet/>
+  <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
+ </LayoutItem>
+ <LayoutItem positionLock="false" templateUuid="{4bdde192-6adc-4748-9bdb-b336f4daa04f}" followPresetName="MIRTA sites" background="true" keepLayerSet="false" itemRotation="0" zValue="13" drawCanvasItems="true" size="12.6885,43.1258,mm" frameJoinStyle="miter" visibility="1" referencePoint="0" type="65639" uuid="{4bdde192-6adc-4748-9bdb-b336f4daa04f}" frame="true" mapRotation="0" blendMode="0" position="5.4114,148.433,mm" followPreset="true" excludeFromExports="0" id="" outlineWidthM="0.3,mm" positionOnPage="5.4114,148.433,mm" groupUuid="" opacity="1">
+  <FrameColor red="127" green="127" blue="127" alpha="255"/>
+  <BackgroundColor red="255" green="255" blue="255" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option name="name" type="QString" value=""/>
+     <Option name="properties"/>
+     <Option name="type" type="QString" value="collection"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <Extent ymax="2395607.28550827503204346" xmin="797070.54010320850647986" xmax="1115038.74211053596809506" ymin="1314893.32324209064245224"/>
+  <crs>
+   <spatialrefsys>
+    <proj4>+proj=utm +zone=54 +datum=WGS84 +units=m +no_defs</proj4>
+    <srsid>3138</srsid>
+    <srid>32654</srid>
+    <authid>EPSG:32654</authid>
+    <description>WGS 84 / UTM zone 54N</description>
+    <projectionacronym>utm</projectionacronym>
+    <ellipsoidacronym>WGS84</ellipsoidacronym>
+    <geographicflag>false</geographicflag>
+   </spatialrefsys>
+  </crs>
+  <LayerSet/>
+  <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
+ </LayoutItem>
+ <LayoutItem positionLock="false" templateUuid="{63e148af-c83e-4fcc-af8e-501b1f8b556c}" background="false" itemRotation="0" zValue="9" halign="1" labelText="Subtitle" valign="32" marginY="0" size="179.4,20.1143,mm" frameJoinStyle="miter" visibility="1" referencePoint="0" type="65641" uuid="{63e148af-c83e-4fcc-af8e-501b1f8b556c}" frame="false" blendMode="0" position="5.2614,18.1986,mm" marginX="0" excludeFromExports="0" id="" outlineWidthM="0.3,mm" positionOnPage="5.2614,18.1986,mm" htmlState="0" groupUuid="" opacity="1">
+  <FrameColor red="0" green="0" blue="0" alpha="255"/>
+  <BackgroundColor red="255" green="255" blue="255" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option name="name" type="QString" value=""/>
+     <Option name="properties"/>
+     <Option name="type" type="QString" value="collection"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont style="Regular" description="Source Code Pro for Powerline,12,-1,5,50,0,0,0,0,0,Regular"/>
+  <FontColor red="0" green="0" blue="0"/>
+ </LayoutItem>
+ <LayoutItem positionLock="false" templateUuid="{2e2e955d-4719-400a-ac9e-f8f985fb65e2}" background="false" itemRotation="0" zValue="8" halign="1" labelText="United States" valign="32" marginY="0" size="246.448,13.1886,mm" frameJoinStyle="miter" visibility="1" referencePoint="0" type="65641" uuid="{2e2e955d-4719-400a-ac9e-f8f985fb65e2}" frame="false" blendMode="0" position="5.2614,6.46531,mm" marginX="0" excludeFromExports="0" id="" outlineWidthM="0.3,mm" positionOnPage="5.2614,6.46531,mm" htmlState="0" groupUuid="" opacity="1">
+  <FrameColor red="0" green="0" blue="0" alpha="255"/>
+  <BackgroundColor red="255" green="255" blue="255" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option name="name" type="QString" value=""/>
+     <Option name="properties"/>
+     <Option name="type" type="QString" value="collection"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont style="Bold" description="Georgia,24,-1,5,50,0,0,0,0,0,Bold"/>
+  <FontColor red="0" green="0" blue="0"/>
+ </LayoutItem>
+ <LayoutItem positionLock="false" templateUuid="{706dda2b-ed33-4829-9a32-1577af19a25f}" followPresetName="MIRTA sites" background="true" keepLayerSet="false" itemRotation="0" zValue="8" drawCanvasItems="true" size="36.2388,20.7335,mm" frameJoinStyle="miter" visibility="1" referencePoint="0" type="65639" uuid="{706dda2b-ed33-4829-9a32-1577af19a25f}" frame="true" mapRotation="0" blendMode="0" position="109.52,183.487,mm" followPreset="true" excludeFromExports="0" id="" outlineWidthM="0.3,mm" positionOnPage="109.52,183.487,mm" groupUuid="" opacity="1">
+  <FrameColor red="127" green="127" blue="127" alpha="255"/>
+  <BackgroundColor red="255" green="255" blue="255" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option name="name" type="QString" value=""/>
+     <Option name="properties"/>
+     <Option name="type" type="QString" value="collection"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <Extent ymax="2583077.73443580325692892" xmin="-474973.06167509610531852" xmax="553482.64530232246033847" ymin="1994661.79312698822468519"/>
+  <crs>
+   <spatialrefsys>
+    <proj4>+proj=utm +zone=5 +datum=WGS84 +units=m +no_defs</proj4>
+    <srsid>3089</srsid>
+    <srid>32605</srid>
+    <authid>EPSG:32605</authid>
+    <description>WGS 84 / UTM zone 5N</description>
+    <projectionacronym>utm</projectionacronym>
+    <ellipsoidacronym>WGS84</ellipsoidacronym>
+    <geographicflag>false</geographicflag>
+   </spatialrefsys>
+  </crs>
+  <LayerSet/>
+  <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
+ </LayoutItem>
+ <LayoutItem positionLock="false" templateUuid="{96e863b7-592f-4ce4-bafc-7bd855ddeaae}" followPresetName="MIRTA sites" background="true" keepLayerSet="false" itemRotation="0" zValue="4" drawCanvasItems="true" size="33.0255,20.5834,mm" frameJoinStyle="miter" visibility="1" referencePoint="0" type="65639" uuid="{96e863b7-592f-4ce4-bafc-7bd855ddeaae}" frame="true" mapRotation="0" blendMode="0" position="257.61,183.637,mm" followPreset="true" excludeFromExports="0" id="" outlineWidthM="0.3,mm" positionOnPage="257.61,183.637,mm" groupUuid="" opacity="1">
+  <FrameColor red="127" green="127" blue="127" alpha="255"/>
+  <BackgroundColor red="255" green="255" blue="255" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option name="name" type="QString" value=""/>
+     <Option name="properties"/>
+     <Option name="type" type="QString" value="collection"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <Extent ymax="2170959.88118551345542073" xmin="-86814.41287606657715514" xmax="408568.76969191408716142" ymin="1862207.78755183005705476"/>
+  <crs>
+   <spatialrefsys>
+    <proj4>+proj=utm +zone=20 +ellps=clrk66 +towgs84=11,72,-101,0,0,0,0 +units=m +no_defs</proj4>
+    <srsid>1760</srsid>
+    <srid>3920</srid>
+    <authid>EPSG:3920</authid>
+    <description>Puerto Rico / UTM zone 20N</description>
+    <projectionacronym>utm</projectionacronym>
+    <ellipsoidacronym>clrk66</ellipsoidacronym>
+    <geographicflag>false</geographicflag>
+   </spatialrefsys>
+  </crs>
+  <LayerSet/>
+  <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
+ </LayoutItem>
+ <LayoutItem positionLock="false" templateUuid="{9605644d-a800-4bc2-8a6a-413523296663}" followPresetName="MIRTA sites" background="true" keepLayerSet="false" itemRotation="0" zValue="3" drawCanvasItems="true" size="91.3623,55.7873,mm" frameJoinStyle="miter" visibility="1" referencePoint="0" type="65639" uuid="{9605644d-a800-4bc2-8a6a-413523296663}" frame="true" mapRotation="0" blendMode="0" position="18.1286,148.433,mm" followPreset="true" excludeFromExports="0" id="" outlineWidthM="0.3,mm" positionOnPage="18.1286,148.433,mm" groupUuid="" opacity="1">
+  <FrameColor red="127" green="127" blue="127" alpha="255"/>
+  <BackgroundColor red="255" green="255" blue="255" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option name="name" type="QString" value=""/>
+     <Option name="properties"/>
+     <Option name="type" type="QString" value="collection"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <Extent ymax="2664432.08378689782693982" xmin="-2403918.92976841516792774" xmax="1745839.57500915322452784" ymin="130522.10868182964622974"/>
+  <crs>
+   <spatialrefsys>
+    <proj4>+proj=aea +lat_1=55 +lat_2=65 +lat_0=50 +lon_0=-154 +x_0=0 +y_0=0 +datum=NAD83 +units=m +no_defs</proj4>
+    <srsid>27129</srsid>
+    <srid>102006</srid>
+    <authid>EPSG:102006</authid>
+    <description>Alaska_Albers_Equal_Area_Conic</description>
+    <projectionacronym>aea</projectionacronym>
+    <ellipsoidacronym></ellipsoidacronym>
+    <geographicflag>false</geographicflag>
+   </spatialrefsys>
+  </crs>
+  <LayerSet/>
+  <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
+ </LayoutItem>
+ <LayoutItem itemRotation="0" legendFilterByAtlas="0" fontColor="#000000" wrapChar="\n" map_uuid="{d240ed0d-0992-48b7-8263-ea3187fe3ca2}" boxSpace="2" position="5.2614,96.6554,mm" frame="false" excludeFromExports="0" positionLock="false" templateUuid="{bc8530b3-f4a8-4dbd-8c85-bcce34aa9730}" visibility="1" title="" type="65642" uuid="{bc8530b3-f4a8-4dbd-8c85-bcce34aa9730}" id="" wmsLegendHeight="25" blendMode="0" referencePoint="0" positionOnPage="5.2614,96.6554,mm" splitLayer="0" frameJoinStyle="miter" opacity="1" rasterBorder="1" equalColumnWidth="0" wmsLegendWidth="50" zValue="2" rasterBorderWidth="0" symbolWidth="4" size="4,7.5,mm" symbolHeight="4" background="false" rasterBorderColor="0,0,0,255" lineSpacing="1" columnCount="1" groupUuid="" columnSpace="2" titleAlignment="1" outlineWidthM="0.3,mm" resizeToContents="1">
+  <FrameColor red="0" green="0" blue="0" alpha="255"/>
+  <BackgroundColor red="255" green="255" blue="255" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option name="name" type="QString" value=""/>
+     <Option name="properties"/>
+     <Option name="type" type="QString" value="collection"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <styles>
+   <style name="title" marginBottom="3.5">
+    <styleFont style="" description=".AppleSystemUIFont,16,-1,5,50,0,0,0,0,0"/>
+   </style>
+   <style name="group" marginTop="3">
+    <styleFont style="" description=".AppleSystemUIFont,14,-1,5,50,0,0,0,0,0"/>
+   </style>
+   <style name="subgroup" marginTop="3">
+    <styleFont style="" description=".AppleSystemUIFont,12,-1,5,50,0,0,0,0,0"/>
+   </style>
+   <style name="symbol" marginTop="2.5">
+    <styleFont style="" description=".AppleSystemUIFont,13,-1,5,50,0,0,0,0,0"/>
+   </style>
+   <style name="symbolLabel" marginTop="2" marginLeft="2">
+    <styleFont style="Regular" description="Source Code Pro for Powerline,12,-1,5,50,0,0,0,0,0,Regular"/>
+   </style>
+  </styles>
+  <layer-tree-group>
+   <customproperties/>
+   <layer-tree-layer name="FY19_MIRTA_Points" id="FY19_MIRTA_Points_9eb02f4d_cbdc_43e6_91c1_a7fca2a032dc" checked="Qt::Checked" expanded="1">
+    <customproperties>
+     <property key="legend/label-4" value="Guard, Reserve, and \nother"/>
+     <property key="legend/node-order" value="0,1,2,3,4"/>
+     <property key="legend/title-label" value=""/>
+    </customproperties>
+   </layer-tree-layer>
+   <custom-order enabled="0"/>
+  </layer-tree-group>
+ </LayoutItem>
+ <LayoutItem positionLock="false" templateUuid="{d240ed0d-0992-48b7-8263-ea3187fe3ca2}" followPresetName="MIRTA sites" background="true" keepLayerSet="false" itemRotation="0" zValue="1" drawCanvasItems="true" size="297,210,mm" frameJoinStyle="miter" visibility="1" referencePoint="0" type="65639" uuid="{d240ed0d-0992-48b7-8263-ea3187fe3ca2}" frame="false" mapRotation="0" blendMode="0" position="0,0,mm" followPreset="true" excludeFromExports="0" id="" outlineWidthM="0.3,mm" positionOnPage="0,0,mm" groupUuid="" opacity="1">
+  <FrameColor red="0" green="0" blue="0" alpha="255"/>
+  <BackgroundColor red="255" green="255" blue="255" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option name="name" type="QString" value=""/>
+     <Option name="properties"/>
+     <Option name="type" type="QString" value="collection"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <Extent ymax="2116692.39459926635026932" xmin="-3472322.69410389102995396" xmax="2477926.4849653635174036" ymin="-2090554.49969212617725134"/>
+  <crs>
+   <spatialrefsys>
+    <proj4>+proj=lcc +lat_1=33 +lat_2=45 +lat_0=39 +lon_0=-96 +x_0=0 +y_0=0 +datum=NAD83 +units=m +no_defs</proj4>
+    <srsid>27127</srsid>
+    <srid>102004</srid>
+    <authid>EPSG:102004</authid>
+    <description>USA_Contiguous_Lambert_Conformal_Conic</description>
+    <projectionacronym>lcc</projectionacronym>
+    <ellipsoidacronym></ellipsoidacronym>
+    <geographicflag>false</geographicflag>
+   </spatialrefsys>
+  </crs>
+  <LayerSet/>
+  <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
+ </LayoutItem>
+ <customproperties>
+  <property key="atlasRasterFormat" value="png"/>
+  <property key="imageAntialias" value="true"/>
+  <property key="imageCropMarginBottom" value="0"/>
+  <property key="imageCropMarginLeft" value="0"/>
+  <property key="imageCropMarginRight" value="0"/>
+  <property key="imageCropMarginTop" value="0"/>
+  <property key="imageCropToContents" value="false"/>
+ </customproperties>
+ <Atlas enabled="0" coverageLayer="" hideCoverage="0" filterFeatures="0" filenamePattern="'output_'||@atlas_featurenumber" pageNameExpression="" sortFeatures="0"/>
+</Layout>
